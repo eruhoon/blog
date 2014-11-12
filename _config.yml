@@ -3,7 +3,7 @@ title: Eruhoon BLOG
 email: eruhoon@gmail.com
 description: "이것저것 다 만지고 적당히 가지고 노는 블로그."
 baseurl: "/blog"
-url: "http://eruhoon.github.io/blog"
+url: "http://eruhoon.github.io/"
 twitter_username: jekyllrb
 github_username: eurhoon
 
