@@ -5,10 +5,8 @@ date:   2014-11-12 23:04:23
 categories: jekyll update
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
-Jekyll also offers powerful support for code snippets:
+글좀 수정좀할게욤 ><
 
 {% highlight javascript %}
 function fuckyou(){
